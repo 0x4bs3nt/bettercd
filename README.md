@@ -2,9 +2,7 @@
 
 # BetterCD
 
-![GitHub License](https://img.shields.io/github/license/72mins/bettercd)
-
-<img alt="BetterCD" width="1000" src="https://bettercd.dev/og.png">
+![GitHub License](https://img.shields.io/github/license/0x4bs3nt/bettercd)
 
 </div>
 
